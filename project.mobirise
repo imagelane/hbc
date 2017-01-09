@@ -1,31 +1,28 @@
 {
   "settings": {
-    "name": "HBC 20170108",
     "currentPage": "index.html",
+    "name": "My Site",
     "theme": {
-      "name": "colorm",
-      "title": "ColorM",
+      "name": "mobirise3",
+      "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
-        "secondaryColor": "#9b59b6",
-        "successColor": "#2ecc71",
-        "infoColor": "#3498db",
-        "warningColor": "#f1c40f",
-        "dangerColor": "#e74c3c",
-        "titleFont": "Arvo",
-        "subtitleFont": "Montserrat",
-        "textFont": "Open Sans",
-        "isRoundedButtons": true,
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 4,
-    "versionPublish": "3.10.5",
-    "favicon": "",
-    "noImageResize": ""
+    "uniqCompNum": 1,
+    "versionPublish": "3.10.5"
   },
   "pages": {
     "index.html": {
@@ -49,35 +46,26 @@
             ".navbar-toggler": {
               "color": "#ffffff"
             },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
             ".link, .dropdown-item": {
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.812rem"
             },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -87,412 +75,34 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
+              "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
             }
           },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
           "_name": "menu",
-          "_anchor": "menu-3",
+          "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#2c3e50",
-            "fontSize": 0.875,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
+            "fontHoverColor": "#c0a375",
             "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/waterglobes-218x128.jpg",
-              "height": 128,
-              "alt": "Putnam County Sheriff",
-              "link": "#top",
-              "title": "Putnam County Sheriff",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "sign-in",
-              "family": "FontAwesome",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HBC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#93a3a7",
-              "font-style": "italic"
-            },
-            ".mbr-section-title": {
-              "text-align": "right",
-              "color": "#7f8c8d",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-0",
-          "_params": {
-            "buttonAlign": "right",
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/waterglobes-2000x1170.jpg",
-            "bgColor": "#2c3e50",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#2c3e50",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "<br>Hillcrest Baptist Church",
-          "text": "Come worship with us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
-        },
-        {
-          "_styles": {},
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "tabs1",
-          "_anchor": "tabs1-2",
-          "_params": {
-            "showImages": true,
-            "tabs": "2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff",
-            "showHeader": true,
-            "showHeaderText": false,
-            "showTitles": true
-          },
-          "title": "Our Church",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque mollitia ipsa ullam, voluptas beatae qui eligendi eveniet necessitatibus perferendis exercitationem fuga iure voluptates voluptatibus laborum sit est. Odit quas facilis tenetur, exercitationem nesciunt. Doloremque voluptatibus officia quod, nostrum tempore quos hic quae molestias! Vero iste itaque cupiditate a nobis, soluta.",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-2\" aria-expanded=\"false\">Salvation</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-2\" aria-expanded=\"true\">Service</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-2\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-2\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-2\">Beautiful</a></li>",
-          "media11": {
-            "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title11": "Faith",
-          "text11": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "media12": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title12": "Redemption",
-          "text12": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "media13": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title13": "Hope",
-          "text13": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "media21": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title21": "Baptism",
-          "text21": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "media22": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title22": "Communion",
-          "text22": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "media23": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title23": "Marriage",
-          "text23": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "media31": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title31": "BOOST YOUR RANKING",
-          "text31": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "media32": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title32": "BOOST YOUR RANKING",
-          "text32": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "media33": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title33": "BOOST YOUR RANKING",
-          "text33": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "media41": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text41": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "media42": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text42": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "media43": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text43": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "media51": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title51": "BOOTSTRAP BUILDER",
-          "text51": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "media52": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title52": "BOOTSTRAP BUILDER",
-          "text52": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "media53": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title53": "BOOTSTRAP BUILDER",
-          "text53": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "media61": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title61": "TRENDY WEBSITE BLOCKS",
-          "text61": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "media62": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title62": "TRENDY WEBSITE BLOCKS",
-          "text62": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "media63": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "title63": "TRENDY WEBSITE BLOCKS",
-          "text63": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
-        },
-        {
-          "_styles": {},
-          "followtext": "follow us",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer8",
-          "_anchor": "footer8-1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "showTitles": true
-          },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "title4": "product",
-          "text41": "Popular",
-          "text42": "Trending",
-          "text43": "Catalog",
-          "text44": "Awesome",
-          "text45": "Best",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/colorm-logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -503,10 +113,85 @@
               "size": 0
             }
           },
-          "titled1": "Private policy",
-          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
-          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>."
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">hbc</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 hbc"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/waterglobes-2000x1170.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Hillcrest Baptist Church",
+          "text": "2009 President Street on the corner of Moseley Avenue in Palatka, Florida, 32177",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#475577"
+            },
+            ".mbr-section-text": {
+              "font-size": "15px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
