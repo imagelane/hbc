@@ -110,7 +110,7 @@
               "src": "@PROJECT_PATH@/assets/images/header-short-531x128.jpg",
               "height": 128,
               "alt": "hillcrest baptist church",
-              "link": "https://mobirise.com",
+              "link": "http://hillcrestlife.org",
               "title": "Home",
               "linkInNewWindow": false
             },
@@ -119,12 +119,14 @@
               "linkInNewWindow": false,
               "name": "long-arrow-right",
               "family": "FontAwesome",
-              "link": "https://mobirise.com",
+              "link": "http://hillcrestlife.org",
               "size": 0,
+              "newWindow": false,
+              "color": "#553982",
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://hillcrestlife.org\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">hbc</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://hillcrestlife.org\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">hbc</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">bulletins</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
