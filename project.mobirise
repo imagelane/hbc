@@ -151,6 +151,23 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#475577"
+            },
+            ".mbr-section-text": {
+              "font-size": "15px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#000000"
+            },
+            ".mbr-section-text B": {
+              "font-size": "20px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": 50,
@@ -196,24 +213,7 @@
           },
           "title": "Hillcrest Baptist Church",
           "text": "2009 President Street on the corner of Moseley Avenue in Palatka, Florida, 32177<br><b>The Talleys will appear at Hillcrest on Saturday<br>February 4th, 6:30 PM</b><br>The Talleys come on a love offering basis - Free admission<b>&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px",
-              "color": "#475577"
-            },
-            ".mbr-section-text": {
-              "font-size": "15px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#000000"
-            },
-            ".mbr-section-text B": {
-              "font-size": "20px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -247,7 +247,7 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#c1c1c1",
-            "columns": 4,
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -324,16 +324,18 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "https://e-giving.org/hillcrestbaptistchurchpalatka",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "Donate",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
