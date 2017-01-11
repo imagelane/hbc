@@ -750,3 +750,10 @@ h6,
   font-size: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+#features7-3 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-3 .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
