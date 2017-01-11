@@ -247,7 +247,7 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#c1c1c1",
-            "columns": "5",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -341,16 +341,18 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "et-line",
+              "active": true,
+              "link": "https://vimeo.com/hillcrestlife",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": true
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "Video",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
