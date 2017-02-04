@@ -159,13 +159,13 @@
               "color": "#475577"
             },
             ".mbr-section-text": {
-              "font-size": "16px",
+              "font-size": "19px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#000000"
+              "color": "#475577"
             },
             ".mbr-section-text B": {
-              "font-size": "20px",
+              "font-size": "25px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
@@ -195,8 +195,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/talleys1-1400x1378.png",
-              "link": "http://thetalleys.com/",
+              "src": "@PROJECT_PATH@/assets/images/february-11-1400x1400.png",
+              "link": "",
               "alt": "the talleys",
               "title": "The Talleys",
               "linkInNewWindow": true
@@ -214,7 +214,7 @@
             }
           },
           "title": "Hillcrest Baptist Church",
-          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>The Talleys will be here on Saturday<br>February 4th, 6:30 PM</b><br>The Talleys come on a love offering basis - Free admission<b>&nbsp;</b>",
+          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Sock Hop - Saturday,&nbsp;February 11th, 6:30 PM</b><br>Also from 11 am til 5 pm Pulled Pork dinner $8 with beans and slaw<b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
