@@ -1,9 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -737,16 +739,16 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #2b0680;
 }
-#header2-0 .mbr-section-title {
+#header2-5 .mbr-section-title {
   font-size: 46px;
   color: #475577;
 }
-#header2-0 .mbr-section-text {
-  font-size: 15px;
+#header2-5 .mbr-section-text {
+  font-size: 16px;
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
-#header2-0 .mbr-section-text B {
+#header2-5 .mbr-section-text B {
   font-size: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -756,4 +758,9 @@ h6,
 #features7-3 .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
+}
+#msg-box5-8 DIV {
+  font-size: 32px;
+  font-family: 'Oxygen', sans-serif;
+  color: #c0a375;
 }

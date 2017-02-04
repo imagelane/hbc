@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "HBC 201701",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 4,
-    "versionPublish": "3.10.5"
+    "uniqCompNum": 9,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -127,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://hillcrestlife.org\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">hbc</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.hillcrestlife.org/bulletins\">bulletins</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.hillcrestlife.org/bulletins\">bulletins</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.hillcrestlife.org/inside-hbc/calendar\">calendar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.hillcrestlife.org/about-us/map\">map</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -157,7 +159,7 @@
               "color": "#475577"
             },
             ".mbr-section-text": {
-              "font-size": "15px",
+              "font-size": "16px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
@@ -168,7 +170,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           },
-          "_anchor": "header2-0",
+          "_anchor": "header2-5",
           "_params": {
             "imageSize": 50,
             "parallax": true,
@@ -212,7 +214,7 @@
             }
           },
           "title": "Hillcrest Baptist Church",
-          "text": "2009 President Street on the corner of Moseley Avenue in Palatka, Florida, 32177<br><b>The Talleys will appear at Hillcrest on Saturday<br>February 4th, 6:30 PM</b><br>The Talleys come on a love offering basis - Free admission<b>&nbsp;</b>",
+          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>The Talleys will be here on Saturday<br>February 4th, 6:30 PM</b><br>The Talleys come on a love offering basis - Free admission<b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -356,6 +358,67 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "DIV": {
+              "font-size": "32px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "msg-box5-8",
+          "_params": {
+            "imageSize": "57",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sideslit-1400x362.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><div>Sunday Bible Study\t9:45 am</div><div>Sunday Worship\t11:00 am</div><div>Sunday Evening\t6:30 pm</div><div>Wednesday Prayer\t6:30 pm</div>",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
