@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -197,8 +197,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/february-11-1400x1400.png",
               "link": "",
-              "alt": "the talleys",
-              "title": "The Talleys",
+              "alt": "Sock Hop",
+              "title": "Sock Hop",
               "linkInNewWindow": true
             },
             "video": {
@@ -214,7 +214,7 @@
             }
           },
           "title": "Hillcrest Baptist Church",
-          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Sock Hop - Saturday,&nbsp;February 11th, 6:30 PM</b><br>Also from 11 am til 5 pm Pulled Pork dinner $8 with beans and slaw<b>&nbsp;</b>",
+          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Sock Hop - Saturday,&nbsp;February 11th, 6:00 PM</b><br>Also from 11 am til 5 pm Pulled Pork dinner $8 with beans and slaw<b>&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -222,15 +222,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
           "_name": "features7",
           "_anchor": "features7-3",
           "_params": {
@@ -357,7 +348,12 @@
           "title6": "Video",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customCSS": ".card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #c0a375;\n\tborder-color: #c0a375;\n}\n",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(193, 193, 193);\">\n    </div>\n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://www.hillcrestlife.org/inside-hbc/calendar\" class=\"etl-icon icon-calendar mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"67\">Calendar</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://hillcrest-academy.org/\" target=\"_blank\" class=\"etl-icon icon-heart mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"68\">Academy</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n          </div>\n        </div>\n                \n            \n        \n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"etl-icon icon-bike mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"69\">Map</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://e-giving.org/hillcrestbaptistchurchpalatka\" target=\"_blank\" class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"70\">Donate</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://vimeo.com/hillcrestlife\" target=\"_blank\" class=\"etl-icon icon-camera mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"71\">Video</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -366,7 +362,7 @@
           "_name": "msg-box5",
           "_styles": {
             "DIV": {
-              "font-size": "32px",
+              "font-size": "30px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#c0a375"
@@ -419,6 +415,55 @@
           "title": "<br><div>Sunday Bible Study\t9:45 am</div><div>Sunday Worship\t11:00 am</div><div>Sunday Evening\t6:30 pm</div><div>Wednesday Prayer\t6:30 pm</div>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "color": "#232323"
+            },
+            "P": {
+              "color": "#1a1a1b"
+            }
+          },
+          "_anchor": "extAccordion1-9",
+          "_params": {
+            "collapseAll": true,
+            "tabs": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#8e8585",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true
+          },
+          "title": "A Matter of FAITH",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-9-init\" data-core=\"\" href=\"#collapseOneextAccordion1-9\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What do you think it takes for someone to get to heaven?</a>",
+          "text1": "<p>&nbsp;Is it luck? Good deeds? Nothing at all? Or is there something more? The Bible has the real answer to this question. It's a matter of <b>FAITH</b>.</p><p><br></p><p><b>F</b> stands for FORGIVENESS. We cannot have eternal life without God's forgiveness. Ephesians 1:7a says, \"In Him (Jesus Christ) we have redemption through his blood, the forgiveness of sins.\"</p><p><br></p><p><b>A</b> is for AVAILABLE. Forgiveness is available for all. John 3:16 says, \"For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.\" But forgiveness is not automatic. \"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven,\" says Matthew 7:21a.</p><p><br></p><p><b>I</b> is for IMPOSSIBLE. It is impossible for God to allow sin into heaven because of who He is and because of who we are. God is loving and just, but His judgment is against sin. James 2:13a says, \"Because judgment without mercy will be shown to anyone who has not been merciful.\" We are sinful people. Romans 3:23 tells us, \"For all have sinned and fall short of the glory of God.\"</p><p><br></p><p><b>T</b> is for TURN. To turn means to repent. We can repent—or turn—from our sin and from ourselves. \"But unless you repent, you too will all perish,\" Luke 13:3b says. We can also turn to Someone. Trust Christ alone. Romans 10:9 tells us how: \"That if you confess with your mouth, 'Jesus is Lord,' and believe in your heart that God raised Him from the dead, you will be saved.\"</p><p><br></p><p><b>H</b> is for HEAVEN. Heaven is eternal life. Here, that means life \"to the full:\" \"I have come that they may have life, and have it to the full (John 10:10b).\" In the hereafter, it means the promise of heaven: \"And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am (John 14:3).\"</p><p><br></p><p>So how can a person have God's forgiveness, heaven and eternal life, and Jesus as personal Savior and Lord? By trusting in Christ and asking Him for forgiveness. Take the step of faith described by another meaning of FAITH: Forsaking All I Trust Him.</p><p><br></p><p>You do this through a simple prayer reflecting your desire for Christ to change your life. You don't need fancy words—only an honest heart. You can pray something like this:</p><p><br></p><p>Lord Jesus, I know I am a sinner and have displeased You in many ways. I believe You died for my sins, and only through faith in Your death and resurrection can I be forgiven. I want to turn from my sins and ask You to come into my life as my Savior and Lord. From this day on, I will follow You by living a life that pleases You. Thank you, Lord Jesus, for saving me. Amen.</p><p><br></p><p>Accepting Christ is just the beginning of a wonderful adventure with God! Get to know Him better in a number of ways:</p><p><br></p><p>• Follow Christ's example in baptism.</p><p>• Join a church (a group of like believers) where you can worship God and grow in your faith.&nbsp;</p><p>• In your church, get involved in Sunday School and Bible study.&nbsp;</p><p>• Begin a daily personal worship experience with God where you study the Bible and pray to commune with God.</p>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
         }
       ]
     }
