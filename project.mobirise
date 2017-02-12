@@ -195,10 +195,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/february-11-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/world-you-love-1400x1400.png",
               "link": "",
-              "alt": "Sock Hop",
-              "title": "Sock Hop",
+              "alt": "Share Jesus",
+              "title": "Share Jesus",
               "linkInNewWindow": true
             },
             "video": {
@@ -214,7 +214,7 @@
             }
           },
           "title": "Hillcrest Baptist Church",
-          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Sock Hop - Saturday,&nbsp;February 11th, 6:00 PM</b><br>Also from 11 am til 5 pm Pulled Pork dinner $8 with beans and slaw<b>&nbsp;</b>",
+          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Spaghetti Dinner this Sunday evening&nbsp;</b>(2/12)&nbsp;<b>at 6:30&nbsp;</b><br>This evening we’re hosting a spaghetti dinner at 6:30. Dinner includes spaghetti, salad and dessert. It’s free and open to everyone!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -223,29 +223,28 @@
             "Theme"
           ],
           "_name": "features7",
-          "_anchor": "features7-3",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#c1c1c1",
-            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c1c1c1",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -353,7 +352,14 @@
           "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(193, 193, 193);\">\n    </div>\n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://www.hillcrestlife.org/inside-hbc/calendar\" class=\"etl-icon icon-calendar mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"67\">Calendar</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://hillcrest-academy.org/\" target=\"_blank\" class=\"etl-icon icon-heart mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"68\">Academy</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n          </div>\n        </div>\n                \n            \n        \n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"etl-icon icon-bike mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"69\">Map</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://e-giving.org/hillcrestbaptistchurchpalatka\" target=\"_blank\" class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"70\">Donate</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://vimeo.com/hillcrestlife\" target=\"_blank\" class=\"etl-icon icon-camera mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"71\">Video</h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "features7-3",
+          "_styles": {
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
         },
         {
           "_tags": [
