@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 11,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
   },
@@ -214,7 +215,7 @@
             }
           },
           "title": "Hillcrest Baptist Church",
-          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><b>Spaghetti Dinner this Sunday evening&nbsp;</b>(2/12)&nbsp;<b>at 6:30&nbsp;</b><br>This evening we’re hosting a spaghetti dinner at 6:30. Dinner includes spaghetti, salad and dessert. It’s free and open to everyone!<br>",
+          "text": "<a href=\"http://www.hillcrestlife.org/about-us/map\" class=\"text-black\">2009 President Street</a> on the corner of Moseley Avenue<br>in Palatka, Florida, 32177<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -353,13 +354,13 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
-          "_anchor": "features7-3",
           "_styles": {
             ".iconbox": {
               "background-color": "@primaryColor",
               "border-color": "@primaryColor"
             }
-          }
+          },
+          "_anchor": "features7-3"
         },
         {
           "_tags": [
