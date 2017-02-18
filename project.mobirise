@@ -196,10 +196,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/world-you-love-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/20170222dinner-1400x1400.png",
               "link": "",
-              "alt": "Share Jesus",
-              "title": "Share Jesus",
+              "alt": "you eat - you decide",
+              "title": "youth dinner",
               "linkInNewWindow": true
             },
             "video": {
